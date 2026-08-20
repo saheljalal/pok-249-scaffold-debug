@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "templatePack": "sveltekit-web",
+  "project": "golden-path",
+  "artifact": {
+    "name": "Web App",
+    "kind": "web"
+  },
+  "selections": {
+    "cicd": [
+      "github_actions"
+    ],
+    "frontend_framework": [
+      "sveltekit"
+    ]
+  }
+}
